@@ -54,7 +54,7 @@
   "devDependencies": {
     "bookshelf": "^0.15.2",
     "dot-prop": "^4.2.1",
-    "knex": "^0.17.6",
+    "knex": "^0.19.5",
     "mime": "^1.6.0",
     "node-forge": "^0.10.0",
     "yargs-parser": "^20.2.1"

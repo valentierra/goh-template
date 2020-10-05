@@ -11,7 +11,7 @@
   "version": "3.2.0",
   "dependencies": {
     "affliction": "github:neok/affliction",
-    "asgar": "ithub:stefanbc/Asgar#1.0.8",
+    "asgar": "github:stefanbc/Asgar#1.0.8",
     "attila": "github:zutrinken/attila#1.13.0",
     "biron": "github:bironthemes/biron-ghost-theme",
     "bleak": "github:zutrinken/bleak#1.4.0",
@@ -47,5 +47,8 @@
   "scripts": {
     "start": "node server.js",
     "postinstall": "bash bin/copy-themes.sh && bash bin/copy-webdav-plugin.sh"
+  },
+  "devDependencies": {
+    "knex": "^0.17.6"
   }
 }

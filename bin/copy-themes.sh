@@ -11,11 +11,11 @@ themes=(
 	liebling
 	london
 	lyra
-	Mapache
+	mapache
 	massively
 	material
 	mention
-	Paway
+	paway
 	pico
 	rimay
 	saga

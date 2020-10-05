@@ -10,9 +10,9 @@
   "private": true,
   "version": "3.2.0",
   "dependencies": {
-    "Mapache": "github:godofredoninja/Mapache#v3.1.1",
-    "Mention": "github:vanila-io/mention-ghost-theme",
-    "Paway": "github:godofredoninja/Paway",
+    "mapache": "github:godofredoninja/Mapache#v3.1.1",
+    "mention": "github:vanila-io/mention-ghost-theme",
+    "paway": "github:godofredoninja/Paway",
     "affliction": "github:neok/affliction",
     "asgar": "github:stefanbc/Asgar#1.0.8",
     "attila": "github:zutrinken/attila#1.13.0",

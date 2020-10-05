@@ -50,6 +50,7 @@
     "dot-prop": "^4.2.1",
     "knex": "^0.17.6",
     "mime": "^1.6.0",
-    "node-forge": "^0.10.0"
+    "node-forge": "^0.10.0",
+    "yargs-parser": "^20.2.1"
   }
 }

@@ -6,7 +6,9 @@ themes=(
 	bleak
 	casper
 	editorial
+	escript
 	fizzy
+	gazette
 	kusi-doc
 	liebling
 	london

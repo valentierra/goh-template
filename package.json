@@ -10,34 +10,32 @@
   "private": true,
   "version": "3.2.0",
   "dependencies": {
+    "Mapache": "github:godofredoninja/Mapache#v3.1.1",
+    "Paway": "github:godofredoninja/Paway",
     "affliction": "github:neok/affliction",
     "asgar": "github:stefanbc/Asgar#1.0.8",
     "attila": "github:zutrinken/attila#1.13.0",
     "biron": "github:bironthemes/biron-ghost-theme",
     "bleak": "github:zutrinken/bleak#1.4.0",
-    "caffeine": "github:kelyvin/caffeine-theme#v4.1.0",
     "casper": "github:tryghost/Casper#3.0.4",
     "editorial": "github:TryGhost/Editorial#1.0",
     "fizzy": "github:huangyuzhang/Fizzy-Theme#v1.3.0",
     "ghost": "^3.34.1",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.0.2",
-    "ghost-webdav-storage-adapter": "^0.3.5",
+    "ghost-webdav-storage-adapter": "^0.4.1",
     "kusi-doc": "github:godofredoninja/kusi-doc",
     "liebling": "github:snathjr/liebling",
     "london": "github:tryghost/london#1.0.0",
     "lyra": "github:tryghost/lyra",
-    "Mapache": "github:godofredoninja/Mapache#v3.1.1",
     "massively": "github:tryghost/massively#1.0.2",
     "material": "github:creativetimofficial/material-kit-ghost",
     "mention": "github:vanila-io/mention-ghost-theme",
     "mysql": "^2.17.1",
-    "Paway": "github:godofredoninja/Paway",
     "pico": "github:tryghost/pico",
     "rimay": "github:godofredoninja/rimay#v0.0.3",
     "saga": "github:Reedyn/Saga#2.0.0",
     "simply": "github:godofredoninja/simply#0.2.9",
-    "storyteller": "github.com:solaymanhaider/storyteller#1.0.0",
     "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
     "vapor": "github:sethlilly/Vapor#v1.6.0"
   },
@@ -49,6 +47,9 @@
     "postinstall": "bash bin/copy-themes.sh && bash bin/copy-webdav-plugin.sh"
   },
   "devDependencies": {
-    "knex": "^0.17.6"
+    "dot-prop": "^4.2.1",
+    "knex": "^0.17.6",
+    "mime": "^1.6.0",
+    "node-forge": "^0.10.0"
   }
 }

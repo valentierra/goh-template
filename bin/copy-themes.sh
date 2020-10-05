@@ -4,7 +4,6 @@ themes=(
 	attila
 	biron
 	bleak
-	caffeine
 	casper
 	editorial
 	fizzy
@@ -21,7 +20,6 @@ themes=(
 	rimay
 	saga
 	simply
-	storyteller
 	the-shell
 	vapor
 )

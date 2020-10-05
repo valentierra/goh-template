@@ -10,7 +10,7 @@
   "private": true,
   "version": "3.2.0",
   "dependencies": {
-    "mapache": "github:godofredoninja/Mapache#v3.1.1",
+    "Mention": "github:vanila-io/mention-ghost-theme",
     "affliction": "github:neok/affliction",
     "asgar": "github:stefanbc/Asgar#1.0.8",
     "attila": "github:zutrinken/attila#1.13.0",
@@ -30,6 +30,7 @@
     "liebling": "github:snathjr/liebling",
     "london": "github:tryghost/london#1.0.0",
     "lyra": "github:tryghost/lyra",
+    "mapache": "github:godofredoninja/Mapache#v3.1.1",
     "mapache-godofredoninja": "github:godofredoninja/Mapache#v3.1.1",
     "massively": "github:tryghost/massively#1.0.2",
     "material": "github:creativetimofficial/material-kit-ghost",

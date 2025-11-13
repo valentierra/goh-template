@@ -23,7 +23,7 @@
     "gazette": "github:valentierra/gazette",
     "ghost": "^3.34.1",
     "ghost-storage-adapter-s3": "^2.8.0",
-    "ghost-storage-cloudinary": "^2.1.3",
+    "ghost-storage-cloudinary": "^3.0.2",
     "ghost-webdav-storage-adapter": "^0.4.1",
     "kusi-doc": "github:godofredoninja/kusi-doc",
     "kusi-doc-godofredoninja": "github:godofredoninja/kusi-doc",
